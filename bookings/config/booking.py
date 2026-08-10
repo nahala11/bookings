@@ -14,7 +14,7 @@ def get_data():
 				},
 				{
 					"type": "doctype",
-					"name": "Room Order"
+					"name": "Room Order",
 					"label": _("Room Order"),
 					"onboard": 1,
 				},
@@ -30,7 +30,6 @@ def get_data():
 					"name": "Extras",
 					"label": _("Extras"),
 					"onboard": 1,
-					
 				},
 				{
 					"type": "doctype",
@@ -71,17 +70,17 @@ def get_data():
 				{
 					"type": "doctype",
 					"name": "Locations",
-					"label": _("Room Order"),
+					"label": _("Locations"),
 				},
 				{
 					"type": "doctype",
 					"name": "Property Type",
-					"label": _("Room Order"),
+					"label": _("Property Type"),
 				},
 				{
 					"type": "doctype",
 					"name": "Room Type",
-					"label": _("Room Order"),
+					"label": _("Room Type"),
 				},
 				{
 					"type": "doctype",
@@ -93,7 +92,7 @@ def get_data():
 				"type": "doctype",
 					"name": "Vehicle Type",
 					"label": _("Vehicle Type"),
-					"onboard": 1,	
+					"onboard": 1,
 				}
 			]
 		}
